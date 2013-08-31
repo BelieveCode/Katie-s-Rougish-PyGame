@@ -11,7 +11,7 @@ from player import Inventory
 from game import Game
 
 def main():
-    while 1:
+    while True:
         pygame.init()
         game = Game()
 
